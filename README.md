@@ -11,6 +11,7 @@ Clone this script from github or copy the files manually to your prefered direct
 
 You can use the short-code in a page, post or text widget.
 You can use the short-code as many times as you want on the same page and check multiple files, folder and projects.
+
 Short-code examples:
 
  - [sf project="projectname"]
